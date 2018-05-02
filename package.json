@@ -1,0 +1,29 @@
+{
+  "name": "bridge-front-gprd-manager",
+  "version": "1.0.0",
+  "description": "Cookie manager for the GPRD legislation",
+  "main": "tarteaucitron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leadformance/bridge-front-gprd-manager.git"
+  },
+  "keywords": [
+    "cookie",
+    "gprd"
+  ],
+  "contrubutors": [
+    {
+      "name": "Marc Schaller",
+      "email": "mschaller@leadformance.com",
+      "url": "https://github.com/marcschaller"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leadformance/bridge-front-gprd-manager/issues"
+  },
+  "homepage": "https://github.com/Leadformance/bridge-front-gprd-manager#readme"
+}
